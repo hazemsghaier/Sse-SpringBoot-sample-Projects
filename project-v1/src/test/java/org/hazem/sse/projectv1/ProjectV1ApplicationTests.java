@@ -1,10 +1,10 @@
-package org.hazem.sse.projectv2;
+package org.hazem.sse.projectv1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Projectv2ApplicationTests {
+class ProjectV1ApplicationTests {
 
     @Test
     void contextLoads() {
